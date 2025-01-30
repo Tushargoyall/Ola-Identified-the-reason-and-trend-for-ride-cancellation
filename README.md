@@ -4,7 +4,9 @@ This project focuses on identifying the reasons and trends behind ride cancellat
 **Tools Used**
 
 1.Power BI: Used to create dynamic and interactive dashboards to visualize the analyzed data, making it easier to identify patterns and trends.
+
 2.Excel: Employed for initial data cleaning, preprocessing, and performing basic statistical analysis to prepare the data for deeper insights.
+
 3.MySQL: Served as the database for storing and querying ride data efficiently, allowing for complex data manipulation and extraction.
 
 # Project Steps
@@ -23,13 +25,17 @@ Excel: Conducted preliminary analysis to identify correlations and outliers in t
 
 Power BI: Created an interactive dashboard in Power BI to visualize the analyzed data. The dashboard includes various charts and graphs that display:
 1.Cancellation rates over time.
+
 2.Common reasons for ride cancellations.
+
 3.Customer and driver behavior patterns related to cancellations.
 
 **Insights and Recommendations**
 
 1.Cancellation Trends: Identified peak periods for ride cancellations, including specific times of day and days of the week with higher cancellation rates.
+
 2.Reasons for Cancellations: Analyzed the most common reasons for ride cancellations, such as driver unavailability, long wait times, and customer no-shows.
+
 3.Behavioral Patterns: Studied customer and driver behaviors to understand their impact on ride cancellations and provided recommendations to mitigate these issues.
 
 **Conclusion**
