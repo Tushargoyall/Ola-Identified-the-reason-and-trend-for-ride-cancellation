@@ -24,6 +24,7 @@ Excel: Conducted preliminary analysis to identify correlations and outliers in t
 **Data Visualization**
 
 Power BI: Created an interactive dashboard in Power BI to visualize the analyzed data. The dashboard includes various charts and graphs that display:
+
 1.Cancellation rates over time.
 
 2.Common reasons for ride cancellations.
